@@ -1,0 +1,8 @@
+class ShortAphabete{
+    public static void main(String[] args){
+        char [] arr = { 'E', 'A', 'C', 'F', 'D', 'B'};
+        //sort the array
+        Arrays.sort(arr);
+        System.out.println(Arrays.toString(arr))
+    }
+}
