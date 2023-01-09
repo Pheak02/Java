@@ -1,42 +1,84 @@
 {
-    // Use IntelliSense to learn about possible attributes.
-    // Hover to view descriptions of existing attributes.
-    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
-    "version": "0.2.0",
-    "configurations": [
-        {
-            "type": "java",
-            "name": "Launch Ch2_Ex3",
-            "request": "launch",
-            "mainClass": "Chapter2.Ch2_Ex3",
-            "projectName": "Java_ad82aa9e"
-        },
-        {
-            "type": "java",
-            "name": "Launch Exercise6",
-            "request": "launch",
-            "mainClass": "Exercise6",
-            "projectName": "Java_ad82aa9e"
-        },
-        {
-            "type": "java",
-            "name": "Launch HelloWorld",
-            "request": "launch",
-            "mainClass": "HelloWorld",
-            "projectName": "Java_ad82aa9e"
-        },
-        {
-            "type": "java",
-            "name": "Launch Current File",
-            "request": "launch",
-            "mainClass": "${file}"
-        },
-        {
-            "type": "java",
-            "name": "Launch Main",
-            "request": "launch",
-            "mainClass": "Main",
-            "projectName": "Java_6c86a6af"
-        }
-    ]
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch Ch2_Ex8",
+      "request": "launch",
+      "mainClass": "Ch2_Ex8",
+      "projectName": "Java_ad82aa9e"
+    },
+    {
+      "type": "java",
+      "name": "Launch Case7",
+      "request": "launch",
+      "mainClass": "Case7",
+      "projectName": "Java_ad82aa9e"
+    },
+    {
+      "type": "java",
+      "name": "Launch NumberToWord",
+      "request": "launch",
+      "mainClass": "NumberToWord",
+      "projectName": "Java_ad82aa9e"
+    },
+    {
+      "type": "java",
+      "name": "Launch Solution",
+      "request": "launch",
+      "mainClass": "Solution",
+      "projectName": "Java_ad82aa9e"
+    },
+    {
+      "type": "java",
+      "name": "Launch CapitalFirstLettera",
+      "request": "launch",
+      "mainClass": "CapitalFirstLettera",
+      "projectName": "Java_ad82aa9e"
+    },
+    {
+      "type": "java",
+      "name": "Launch CapitalFirstLetter",
+      "request": "launch",
+      "mainClass": "CapitalFirstLetter",
+      "projectName": "Java_ad82aa9e"
+    },
+    {
+      "type": "java",
+      "name": "Launch Ch2_Ex3",
+      "request": "launch",
+      "mainClass": "Chapter2.Ch2_Ex3",
+      "projectName": "Java_ad82aa9e"
+    },
+    {
+      "type": "java",
+      "name": "Launch Exercise6",
+      "request": "launch",
+      "mainClass": "Exercise6",
+      "projectName": "Java_ad82aa9e"
+    },
+    {
+      "type": "java",
+      "name": "Launch HelloWorld",
+      "request": "launch",
+      "mainClass": "HelloWorld",
+      "projectName": "Java_ad82aa9e"
+    },
+    {
+      "type": "java",
+      "name": "Launch Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Launch Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "Java_6c86a6af"
+    }
+  ]
 }
