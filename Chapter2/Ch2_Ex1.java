@@ -22,8 +22,8 @@ public class Ch2_Ex1 {
                 int lt=b.length(); //to store to length of each word temporarily
                 if(lt>11)
                 {
-                    ll=int
-                    f=b
+                    ll=lt;
+                    f=b;
                 }
                 b= "";
 
