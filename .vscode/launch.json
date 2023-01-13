@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch SortArrayOfCountryName",
+      "request": "launch",
+      "mainClass": "SortArrayOfCountryName",
+      "projectName": "Java_ad82aa9e"
+    },
+    {
+      "type": "java",
+      "name": "Launch LongestWord",
+      "request": "launch",
+      "mainClass": "LongestWord",
+      "projectName": "Java_ad82aa9e"
+    },
+    {
+      "type": "java",
       "name": "Launch Ch2_Ex8",
       "request": "launch",
       "mainClass": "Ch2_Ex8",

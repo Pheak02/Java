@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="32e241fb-f648-4d75-b3ff-b9eae56d7999" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/launch.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/launch.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter2/CapitalFirstLetter" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter2/CapitalFirstLetter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter2/CapitalFirstLetter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter2/LongestWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter2/LongestWord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter2/NumberToWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter2/NumberToWord.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

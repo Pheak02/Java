@@ -2,10 +2,11 @@ import java.util.Scanner;
 
 public class CapitalFirstLetter {
   public static String capitalize(String inputString) {// get the first character of the inputString
-    char firstLetter = inputString.charAt(0);
+    char firstLetter = inputString.charAt(0); // charAt() function returns the character at a given position in a
+                                              // string.
 
     // convert it to an UpperCase letter
-    char capitalFirstLetter = Character.toUpperCase(firstLetter);
+    char capitalFirstLetter = Character.toUpperCase(firstLetter); // specify with firstletter
 
     // return the output string by updating
     // the first char of the input string

@@ -14,7 +14,10 @@ class NumberToWord {
                 "sixteen", "seventeen", "eighteen", "nineteen" };
         String[] tens_multiple = new String[] { "", "", "twenty", "thirty", "forty", "fifty", "sixty", "seventy",
                 "eighty", "ninety" };
-        if (a == 1) {
+        // String[] hundred_multiple = new String[] { "", "", "twenty", "thirty",
+        // "forty", "fifty", "sixty", "seventy",
+        // "eighty", "ninety" };
+        if (a == 1) { // equal to
             System.out.println(two_digits[b + 1]);
         } else if (b == 0)
             System.out.println(tens_multiple[a]);
