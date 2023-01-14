@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch Main",
+      "request": "launch",
+      "mainClass": "com.codewithpheak.Main",
+      "projectName": "Java_ad82aa9e"
+    },
+    {
+      "type": "java",
       "name": "Launch SortArrayOfCountryName",
       "request": "launch",
       "mainClass": "SortArrayOfCountryName",
