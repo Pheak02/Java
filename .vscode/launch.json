@@ -6,6 +6,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch Array",
+      "request": "launch",
+      "mainClass": "Array",
+      "projectName": "Java_91e5a9fa"
+    },
+    {
+      "type": "java",
+      "name": "Launch Testing",
+      "request": "launch",
+      "mainClass": "Testing",
+      "projectName": "Java_91e5a9fa"
+    },
+    {
+      "type": "java",
+      "name": "Launch Variable",
+      "request": "launch",
+      "mainClass": "Variable",
+      "projectName": "Java_91e5a9fa"
+    },
+    {
+      "type": "java",
       "name": "Launch CapitalFirstLetter",
       "request": "launch",
       "mainClass": "CapitalFirstLetter",
