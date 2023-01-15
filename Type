@@ -1,0 +1,15 @@
+import java.util.Date;
+public class Type{
+    public static void main(String[] args){
+        byte age =30;
+        int viewsCount=123,456,789; //can store value up to 2B
+        float price =10.99f;
+        char letter = 'A';
+        boolean isEligible = false;
+        Date now = new Date();
+        System.out.println(now)
+
+
+
+    }
+}
