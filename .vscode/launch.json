@@ -6,6 +6,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch Foundation",
+      "request": "launch",
+      "mainClass": "Foundation",
+      "projectName": "Java_1182789"
+    },
+    {
+      "type": "java",
+      "name": "Launch foundation",
+      "request": "launch",
+      "mainClass": "JavaBeginner.JavaBasic.WithCaleb.foundation",
+      "projectName": "Java_1182789"
+    },
+    {
+      "type": "java",
+      "name": "Launch foundation",
+      "request": "launch",
+      "mainClass": "foundation",
+      "projectName": "Java_1182789"
+    },
+    {
+      "type": "java",
       "name": "Launch Variable",
       "request": "launch",
       "mainClass": "Variable",
