@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch Main",
+      "request": "launch",
+      "mainClass": "JavaBeginner.JavaBasic.WithMosh.Main",
+      "projectName": "Java_1182789"
+    },
+    {
+      "type": "java",
+      "name": "Launch Main",
+      "request": "launch",
+      "mainClass": "JavaBeginner.JavaBasic.WithCaleb.Main",
+      "projectName": "Java_1182789"
+    },
+    {
+      "type": "java",
       "name": "Launch Foundation",
       "request": "launch",
       "mainClass": "Foundation",
