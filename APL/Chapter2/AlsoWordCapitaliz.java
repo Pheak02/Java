@@ -1,5 +1,5 @@
-public class Main {
-    public static String capitalizeWord(String str) {
+public class AlsoWordCapitaliz {
+    public static String AlsoWordCapitalize(String str) {
         String words[] = str.split("\\s");
         String capitalizeWord = "";
         for (String w : words) {

@@ -6,6 +6,69 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch Variable",
+      "request": "launch",
+      "mainClass": "Variable",
+      "projectName": "Java_1182789"
+    },
+    {
+      "type": "java",
+      "name": "Launch Exercise6",
+      "request": "launch",
+      "mainClass": "Chapter1.Exercise6",
+      "projectName": "Java_1182789"
+    },
+    {
+      "type": "java",
+      "name": "Launch Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "Java_1182789"
+    },
+    {
+      "type": "java",
+      "name": "Launch Ch2_Ex8",
+      "request": "launch",
+      "mainClass": "Ch2_Ex8",
+      "projectName": "Java_1182789"
+    },
+    {
+      "type": "java",
+      "name": "Launch Ch2_Ex7",
+      "request": "launch",
+      "mainClass": "Ch2_Ex7",
+      "projectName": "Java_1182789"
+    },
+    {
+      "type": "java",
+      "name": "Launch SortArrayOfCountryName",
+      "request": "launch",
+      "mainClass": "SortArrayOfCountryName",
+      "projectName": "Java_1182789"
+    },
+    {
+      "type": "java",
+      "name": "Launch NumberToWord",
+      "request": "launch",
+      "mainClass": "NumberToWord",
+      "projectName": "Java_1182789"
+    },
+    {
+      "type": "java",
+      "name": "Launch LongestWord",
+      "request": "launch",
+      "mainClass": "LongestWord",
+      "projectName": "Java_1182789"
+    },
+    {
+      "type": "java",
+      "name": "Launch CapitalFirstLetter",
+      "request": "launch",
+      "mainClass": "CapitalFirstLetter",
+      "projectName": "Java_1182789"
+    },
+    {
+      "type": "java",
       "name": "Launch Array",
       "request": "launch",
       "mainClass": "Array",

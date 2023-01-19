@@ -1,3 +1,5 @@
+package Chapter1;
+
 public class Exercise10 {
     /*
      * (Summation) Write a program to compute the following summation.
